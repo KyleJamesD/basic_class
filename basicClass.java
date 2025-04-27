@@ -147,4 +147,11 @@ public class BasicClass {
         }
     }
 
+
+
+    // Defines where the program starts.
+    public static void main( String[] args ) {
+        System.out.println("Hello world");
+    }
+
 }
